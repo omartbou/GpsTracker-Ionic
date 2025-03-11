@@ -1,0 +1,7 @@
+{
+  "name": "gps-tracker-front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
